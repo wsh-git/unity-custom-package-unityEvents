@@ -1,0 +1,20 @@
+{
+  "name": "com.wshunity.events",
+  "displayName": "Wsh Unity Events",
+  "version": "0.0.1",
+  "unity": "2017.2",
+  "keywords": [
+    "Events"
+  ],
+  "description": "This is a very simple events system.",
+  "repository": {
+    "url": "https://github.com/wsh-git/unity-custom-package-unityEvents.git",
+    "type": "git",
+    "revision": ""
+  },
+  "author": {
+    "name": "wshunity",
+    "email": "",
+    "url": ""
+  }
+}
